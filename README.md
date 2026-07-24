@@ -134,9 +134,9 @@ images/
 
 **Your Name**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/yashgawande2605
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/yash-gawande-02a338305
 
 ---
 
