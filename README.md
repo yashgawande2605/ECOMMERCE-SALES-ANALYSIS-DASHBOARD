@@ -112,11 +112,10 @@ Dataset (if included)
 
 ## 📷 Dashboard Preview
 
-Add screenshots of your dashboard here.
 
 ```
-images/
-├── Dashboard.png
+"C:\Users\RAG\OneDrive\Pictures\Screenshots\Screenshot 2026-07-25 220951.png"
+
 ```
 
 ---
